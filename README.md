@@ -33,6 +33,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | KNN Classifier | Implement K-nearest neighbors classification using Euclidean distance, majority voting, and deterministic tie-breaking. | https://www.tensortonic.com/problems/ml-knn-classifier |
 | Arange and Linspace | Generate a one-dimensional NumPy sequence using either step-based arange or count-based linspace semantics. | https://www.tensortonic.com/problems/numpy-arange-linspace |
 | Basic Indexing | Extract a rectangular NumPy subarray with row and column slice boundaries using standard basic indexing. | https://www.tensortonic.com/problems/numpy-basic-indexing |
+| Boolean Masking | Build three filtered views of a 2D array: an element-level boolean mask, rows kept when any element exceeds a threshold. | https://www.tensortonic.com/problems/numpy-boolean-masking |
 | Create Arrays from Lists | Convert a rectangular Python list of lists into a two-dimensional NumPy float64 array. | https://www.tensortonic.com/problems/numpy-create-array |
 | Fancy Indexing | Convert the data to float64 and return the array formed by selecting elements along that axis using integer array indexing. | https://www.tensortonic.com/problems/numpy-fancy-indexing |
 | Normalize Columns | Standardize each NumPy matrix column by subtracting its mean and dividing by its population standard deviation. | https://www.tensortonic.com/problems/numpy-normalize-columns |
